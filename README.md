@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashbooba-zakariya&show_icons=true&locale=en" alt="mashbooba-zakariya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashbooba-zakariya&" alt="mashbooba-zakariya" /></p>
+
